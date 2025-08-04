@@ -86,13 +86,13 @@ personal-ai-chatbot/
 > {"instruction": "너는 누구야?", "input": "", "output": "저는 주인님이 직접 개발하신 AI 비서입니다."}
 
 - 학습
--- python train.py
+> python train.py
 
 - 테스트
--- python test.py
+> python test.py
 
 - API 서버 실행(웹 채팅형태)
--- python app.py(localhost:8000/chat으로 접근가능)
+> python app.py(localhost:8000/chat으로 접근가능)
 
 ---
 ## ⚠️ 주의사항
