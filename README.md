@@ -8,13 +8,13 @@
 
 2. 우분투에서 아래 명령어를 순서대로 입력함
    
-sudo apt update && sudo apt install python3.10 python3.10-venv python3-pip -y
-python3.10 -m venv venv
-source venv/bin/activate
-cd /mnt/d/AI_python
-pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
-pip install transformers peft datasets accelerate bitsandbytes
-pip install fastapi uvicorn
+- sudo apt update && sudo apt install python3.10 python3.10-venv python3-pip -y
+- python3.10 -m venv venv
+- source venv/bin/activate
+- cd /mnt/d/AI_python
+- pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
+- pip install transformers peft datasets accelerate bitsandbytes
+- pip install fastapi uvicorn
 
 4. 파일 구조
 eval.json 평가용 데이터
