@@ -17,11 +17,11 @@
 - pip install fastapi uvicorn
 
 4. 파일 구조
-eval.json 평가용 데이터
-sample_augumented.jsonl 학습용 데이터
-test.py 학습후 지정된 결과테스트
-app.ty 웹용 API서버 
-train.ty 학습
+- eval.json 평가용 데이터
+- sample_augumented.jsonl 학습용 데이터
+- test.py 학습후 지정된 결과테스트
+- app.ty 웹용 API서버 
+- train.ty 학습
 
 5. 기타 
 - 현재 코드기준은 RTX3060(VRAM 12GB)기준으로 되어있으므로 하위시스템에서는 OOM(메모리 오버)가 발생 할 수 있음
