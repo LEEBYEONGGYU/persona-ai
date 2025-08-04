@@ -1,35 +1,66 @@
-개인 비서AI 만들어보는 프로젝트
+🧠 개인 비서 AI 프로젝트
+Polyglot 5.8B 모델을 기반으로 로컬 환경에서 직접 학습 및 추론이 가능한 개인 비서 AI를 만들어보는 프로젝트입니다.
+외부 API(OpenAI 등)에 의존하지 않고, 내 GPU로 직접 LoRA 파인튜닝하여 맞춤형 챗봇을 구현할 수 있습니다.
+(아직 지식과 경험이 많이 부족함)
 
-1. 실행방법
-- 제어판->프로그램 및 기능->Windows 기능 켜기/끄기->Hyper-V와 Linux용 Windows 하위시스템을 체크하고 확인 -> 재부팅
-- 명령프롬프트 관리자권한으로 실행하고 아래 명령어 입력
-- wsl --install -d Ubuntu-22.04
-  - WSL이 설치되면 우분투가 설치되며 계정이름과 암호를 입력함
-  - 재실행시 시작메뉴에서 WSL입력 후 실행
+🚀 주요 기능
+🏗 Polyglot 5.8B 기반 LoRA 파인튜닝
+⚡ 4bit 양자화로 VRAM 최적화 (RTX 3060 12GB 기준)
+🤖 개인 데이터셋(질문·답변)으로 AI 학습
+🌐 FastAPI 기반 API 서버 제공
+🧩 모델 추론 테스트 스크립트 포함
 
-2. 우분투에서 아래 명령어를 순서대로 입력함
-   
+
+🛠 환경 설정
+
+1️⃣ WSL 설치
+Windows 기능 켜기/끄기 →
+✅ Hyper-V
+✅ Linux용 Windows 하위 시스템(WLS2) 활성화 → 재부팅
+
+명령 프롬프트(관리자 권한) 실행 후:
+- wsl --install -d Ubuntu-22.04를 입력
+- 사용자계정명 입력 후 암호입력
+- 재실행시 시작메뉴에서 WSL을 입력하여 실행
+
+2️⃣ Python 환경 구성
 - sudo apt update && sudo apt install python3.10 python3.10-venv python3-pip -y
 - python3.10 -m venv venv
 - source venv/bin/activate
 - cd /mnt/d/AI_python
+
+3️⃣ 필수 패키지 설치
 - pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
 - pip install transformers peft datasets accelerate bitsandbytes
 - pip install fastapi uvicorn
 
-4. 파일 구조
-- eval.json 평가용 데이터
-- sample_augumented.jsonl 학습용 데이터
-- test.py 학습후 지정된 결과테스트
-- app.ty 웹용 API서버 
-- train.ty 학습
+📂 프로젝트 구조
+personal-ai-chatbot/
+│── eval.json                # 평가용 데이터
+│── sample_augmented.jsonl   # 학습용 데이터
+│── train.py                 # LoRA 학습 코드
+│── test.py                  # 학습된 모델 테스트
+│── app.py                   # FastAPI 기반 웹 API 서버
+│── requirements.txt
+│── README.md
 
-5. 기타 
-- 현재 코드기준은 RTX3060(VRAM 12GB)기준으로 되어있으므로 하위시스템에서는 OOM(메모리 오버)가 발생 할 수 있음
-- 인텔노트북 사용불가
-- 학습용 데이터가 많을 수록 시간이 오래걸림(에어컨+본체 뚜껑 열어두시길)
-- 노트북으로 사용시 쿨러 필수
+💻 실행 방법
 
-6. 재실행시
-   - WSL실행
-   - source venv/bin/activate
+학습
+- python train.ty
+
+테스트
+- python test.py
+
+API서버 실행(웹 채팅형태)
+python app.py
+(http://localhost:8000/chat로 접근가능)
+
+⚠️ 주의사항
+- RTX 3060 (VRAM 12GB) 기준으로 작성 → 낮은 사양 GPU에서는 OOM(Out of Memory) 가능성 있음
+- 인텔 내장 GPU 노트북은 지원 불가
+- 학습 데이터가 많을수록 학습 시간이 오래 걸립니다.
+- 데스크톱 사용 시 에어컨 + 본체 뚜껑 열기, 노트북은 쿨러 필수
+
+🔄 WSL 재실행 시
+- source venv/bin/activate
