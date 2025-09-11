@@ -1,128 +1,99 @@
 import torch
-from transformers import (
-    AutoTokenizer, 
-    AutoModelForCausalLM, 
-    BitsAndBytesConfig, 
-    TrainingArguments, 
-    Trainer
-)
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, TrainingArguments, Trainer
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from datasets import load_dataset
 
-# ======================
-# 1. 데이터셋 로드
-# ======================
-dataset = load_dataset("json", data_files={
-    "train": "./sample_augmented.jsonl"
-})
+MODEL_NAME = "beomi/KoAlpaca-Polyglot-5.8B"
+DATA_PATH  = "./sample_augmented.jsonl"
+OUT_DIR    = "./lora_bizntc_only300"
 
-# ======================
-# 2. 토크나이저
-# ======================
-model_name = "nlpai-lab/kullm-polyglot-5.8b-v2"  # ✅ 기존 모델 유지
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-tokenizer.pad_token = tokenizer.eos_token
-tokenizer.padding_side = "right"
+MAX_LEN    = 512
+EPOCHS     = 3
+BATCH_SIZE = 4
+GRAD_ACCUM = 2
+LR         = 2e-5
 
-def preprocess_function(examples):
-    inputs = [
-        f"Instruction: {instr}\nInput: {inp}" if inp else f"Instruction: {instr}"
-        for instr, inp in zip(examples["instruction"], examples["input"])
-    ]
-    model_inputs = tokenizer(inputs, truncation=True, padding="max_length", max_length=256)  # ✅ 길이 절반
-    labels = tokenizer(examples["output"], truncation=True, padding="max_length", max_length=256)["input_ids"]
+# 1. Load dataset
+raw = load_dataset("json", data_files={"train": DATA_PATH})
+split = raw["train"].train_test_split(test_size=0.1, seed=42)
 
-    labels = [
-        [(label if label != tokenizer.pad_token_id else -100) for label in label_seq]
-        for label_seq in labels
-    ]
-    model_inputs["labels"] = labels
-    return model_inputs
+tok = AutoTokenizer.from_pretrained(MODEL_NAME)
+tok.pad_token = tok.eos_token
+tok.padding_side = "right"
 
-tokenized_datasets = dataset.map(preprocess_function, batched=True)
+def preprocess(batch):
+    X = tok(batch["instruction"], truncation=True, padding="max_length", max_length=MAX_LEN)
+    Y_ids = tok(batch["output"], truncation=True, padding="max_length", max_length=MAX_LEN)["input_ids"]
+    Y = [[(t if t != tok.pad_token_id else -100) for t in seq] for seq in Y_ids]
+    X["labels"] = Y
+    return X
 
-# ======================
-# 3. 4bit 양자화 설정
-# ======================
-bnb_config = BitsAndBytesConfig(
+ds = split.map(preprocess, batched=True, remove_columns=split["train"].column_names)
+
+# 2. Load model in 4bit
+bnb = BitsAndBytesConfig(
     load_in_4bit=True,
-    bnb_4bit_use_double_quant=True,
+    bnb_4bit_use_double_quant=False,
     bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16  # ✅ float16 → bfloat16
+    bnb_4bit_compute_dtype=torch.float16
 )
 
-# ======================
-# 4. 모델 로드 및 k-bit 준비
-# ======================
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    quantization_config=bnb_config,
-    torch_dtype=torch.float16,
-    device_map="auto",  # ✅ CPU Offload 허용
-)
-model.config.use_cache = False
-model = prepare_model_for_kbit_training(model)
+base = AutoModelForCausalLM.from_pretrained(MODEL_NAME, quantization_config=bnb, device_map="auto")
+base.config.use_cache = False
+base = prepare_model_for_kbit_training(base)
 
-# ======================
-# 5. LoRA 설정 (경량화)
-# ======================
-peft_config = LoraConfig(
-    r=2,  # ✅ rank 크게 축소
-    lora_alpha=8,
-    target_modules=["query_key_value"],
+# 3. Detect LoRA modules
+def pick_target_modules(model):
+    names = [n for n,_ in model.named_modules()]
+    if any("q_proj" in n for n in names) and any("v_proj" in n for n in names):
+        return ["q_proj","v_proj"]
+    if any("query_key_value" in n for n in names):
+        return ["query_key_value"]
+    if any("c_attn" in n for n in names) and any("c_proj" in n for n in names):
+        return ["c_attn","c_proj"]
+    return ["attn.c_attn", "attn.c_proj", "mlp.c_fc", "mlp.c_proj"]
+
+targets = pick_target_modules(base)
+print("🔧 LoRA target modules:", targets)
+
+lora = LoraConfig(
+    r=32,
+    lora_alpha=64,
+    target_modules=targets,
     lora_dropout=0.05,
     bias="none",
     task_type="CAUSAL_LM"
 )
-model = get_peft_model(model, peft_config)
 
+model = get_peft_model(base, lora)
 model.print_trainable_parameters()
 
-# ======================
-# 6. Custom Trainer
-# ======================
-class CustomTrainer(Trainer):
-    def compute_loss(self, model, inputs, return_outputs=False, *args, **kwargs):
-        outputs = model(**inputs)
-        loss = outputs.loss if hasattr(outputs, "loss") else outputs[0]
-        return (loss, outputs) if return_outputs else loss
-
-# ======================
-# 7. 학습 인자
-# ======================
-training_args = TrainingArguments(
-    output_dir="./results",
-    per_device_train_batch_size=1,
-    gradient_accumulation_steps=16,  # ✅ VRAM 절약
-    num_train_epochs=4,
-    learning_rate=3e-4,
+# 4. Train
+args = TrainingArguments(
+    output_dir="./results_bizntc_only300",
+    per_device_train_batch_size=BATCH_SIZE,
+    gradient_accumulation_steps=GRAD_ACCUM,
+    num_train_epochs=EPOCHS,
+    learning_rate=LR,
     fp16=True,
+    gradient_checkpointing=True,
+    save_strategy="epoch",
     save_total_limit=2,
     logging_steps=10,
-    save_steps=100,
-    warmup_steps=10,
-    weight_decay=0.01,
-    gradient_checkpointing=True,
-    optim="paged_adamw_8bit",
     report_to="none",
+    optim="paged_adamw_8bit",
+    warmup_steps=10,
+    weight_decay=0.01
 )
 
-# ======================
-# 8. Trainer 실행
-# ======================
-trainer = CustomTrainer(
+trainer = Trainer(
     model=model,
-    args=training_args,
-    train_dataset=tokenized_datasets["train"]
+    args=args,
+    train_dataset=ds["train"],
+    eval_dataset=ds["test"],
 )
 
-# ======================
-# 9. 학습 시작
-# ======================
 trainer.train()
-
-# ======================
-# 10. LoRA 어댑터 저장
-# ======================
-trainer.model.save_pretrained("./lora_polyglot5.8b_vram")
-tokenizer.save_pretrained("./lora_polyglot5.8b_vram")
+trainer.model.save_pretrained(OUT_DIR)
+tok.save_pretrained(OUT_DIR)
+print(f"✅ LoRA saved to {OUT_DIR}")
