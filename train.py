@@ -22,11 +22,21 @@ tok.pad_token = tok.eos_token
 tok.padding_side = "right"
 
 def preprocess(batch):
-    X = tok(batch["instruction"], truncation=True, padding="max_length", max_length=MAX_LEN)
-    Y_ids = tok(batch["output"], truncation=True, padding="max_length", max_length=MAX_LEN)["input_ids"]
-    Y = [[(t if t != tok.pad_token_id else -100) for t in seq] for seq in Y_ids]
-    X["labels"] = Y
-    return X
+    prompt = []
+    for instr, inp, out in zip(batch["instruction"], batch["input"], batch["output"]):
+        if inp.strip() == "":
+            prompt.append(f"### Instruction:\n{instr}\n\n### Response:\n{out}")
+        else:
+            prompt.append(f"### Instruction:\n{instr}\n\n### Input:\n{inp}\n\n### Response:\n{out}")
+
+    tokenized = tok(prompt, truncation=True, padding="max_length", max_length=MAX_LEN)
+    tokenized["labels"] = [
+        [(tid if tid != tok.pad_token_id else -100) for tid in seq]
+        for seq in tokenized["input_ids"]
+    ]
+    return tokenized
+
+
 
 ds = split.map(preprocess, batched=True, remove_columns=split["train"].column_names)
 

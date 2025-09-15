@@ -1,38 +1,36 @@
+# test.py
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
-import os
 
-base_model = "nlpai-lab/kullm-polyglot-5.8b-v2"
-adapter_path = "./lora_polyglot5.8b_vram"
+BASE   = "beomi/KoAlpaca-Polyglot-5.8B"
+ADAPT  = "./lora_bizntc_only300"
 
-os.makedirs("./offload", exist_ok=True)
+base = AutoModelForCausalLM.from_pretrained(BASE, device_map="auto", torch_dtype=torch.float16)
+model = PeftModel.from_pretrained(base, ADAPT)
 
-tokenizer = AutoTokenizer.from_pretrained(base_model)
-model = AutoModelForCausalLM.from_pretrained(
-    base_model,
-    device_map="auto",
-    torch_dtype=torch.float16,
-    low_cpu_mem_usage=False,
-    offload_folder="./offload"
-)
+tok = AutoTokenizer.from_pretrained(BASE)
+tok.pad_token = tok.eos_token
 
-model = PeftModel.from_pretrained(
-    model,
-    adapter_path,
-    offload_dir="./offload"
-)
+prompt = """### Instruction:
+2025년 3월 21일은 무슨 날이야?
 
-prompts = ["누가 너를 만들었어?", "너의 역할은 뭐야?", "이병규님이 만든 앱은?"]
+### Response:
+"""
 
-for prompt in prompts:
-    inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
-    inputs.pop("token_type_ids", None)  # ✅ 불필요한 키 제거
-    outputs = model.generate(
+inputs = tok(prompt, return_tensors="pt")
+# 핵심: token_type_ids 제거 + CUDA 이동
+inputs = {k: v.to(model.device) for k,v in inputs.items() if k != "token_type_ids"}
+
+with torch.inference_mode():
+    out = model.generate(
         **inputs,
-        max_new_tokens=100,
-        no_repeat_ngram_size=3,
-        repetition_penalty=1.2
+        max_new_tokens=160,
+        do_sample=True,
+        top_p=0.9,
+        temperature=0.7,
+        eos_token_id=tok.eos_token_id  # ✅ 끝내는 조건
     )
-    print(f"Q: {prompt}")
-    print(f"A: {tokenizer.decode(outputs[0], skip_special_tokens=True)}\n")
+    decoded = tok.decode(out[0], skip_special_tokens=True)
+
+print(decoded.strip())  # ✅ 앞뒤 공백 및 줄바꿈 제거
