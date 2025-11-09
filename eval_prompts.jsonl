@@ -1,0 +1,28 @@
+{"instruction": "2025년 1월 27일은 쉬는 날인가요?", "expected_contains": "1월 27일"}
+{"instruction": "2025년 1월 31일은 쉬는 날인가요?", "expected_contains": "1월 31일"}
+{"instruction": "2025년 2월 21일은 단체휴무인가요?", "expected_contains": "2월 21일"}
+{"instruction": "2025년 3월 21일은 전사 단체휴무일인가요?", "expected_contains": "3월 21일"}
+{"instruction": "2025년 4월 18일 단체휴무인지 알려줘", "expected_contains": "4월 18일"}
+{"instruction": "2025년 5월 2일은 쉬는 날인가요?", "expected_contains": "5월 2일"}
+{"instruction": "2025년 7월 18일은 쉬는 날인가요?", "expected_contains": "7월 18일"}
+{"instruction": "2025년 9월 19일에 출근 안 해도 되나요?", "expected_contains": "9월 19일"}
+{"instruction": "2025년 10월 10일은 단체휴무인가요?", "expected_contains": "10월 10일"}
+{"instruction": "2025년 11월 21일 단체휴무인지 알려줘", "expected_contains": "11월 21일"}
+{"instruction": "2025년 12월 29일 단체휴무인지 알려줘", "expected_contains": "12월 29일"}
+{"instruction": "2025년 12월 30일은 전사 단체휴무일인가요?", "expected_contains": "12월 30일"}
+{"instruction": "2025년 12월 31일에 출근 안 해도 되나요?", "expected_contains": "12월 31일"}
+{"instruction": "2025년 1월 1일은 단체휴무인가요?", "expected_contains": "아니"}
+{"instruction": "2025년 2월 10일 단체휴무인지 알려줘", "expected_contains": "아니"}
+{"instruction": "2025년 3월 3일은 쉬는 날인가요?", "expected_contains": "아니"}
+{"instruction": "2025년 4월 30일은 단체휴무인가요?", "expected_contains": "아니"}
+{"instruction": "2025년 5월 5일 단체휴무인지 알려줘", "expected_contains": "아니"}
+{"instruction": "2025년 7월 1일은 전사 단체휴무일인가요?", "expected_contains": "아니"}
+{"instruction": "2025년 9월 1일은 쉬는 날인가요?", "expected_contains": "아니"}
+{"instruction": "2025년 10월 3일 단체휴무인지 알려줘", "expected_contains": "아니"}
+{"instruction": "2025년 11월 11일에 출근 안 해도 되나요?", "expected_contains": "아니"}
+{"instruction": "2025년 12월 25일은 단체휴무인가요?", "expected_contains": "아니"}
+{"instruction": "단체휴무일 전체 알려줘", "expected_contains": "1월 27일"}
+{"instruction": "2025년 우리 회사 단체휴무일은?", "expected_contains": "1월 27일"}
+{"instruction": "올해 전사 단체휴무일이 어떻게 돼?", "expected_contains": "1월 27일"}
+{"instruction": "단체로 쉬는 날 목록 보여줘", "expected_contains": "1월 27일"}
+{"instruction": "비즈앤테크 단체휴무일 좀 알려줄래?", "expected_contains": "1월 27일"}

@@ -5,10 +5,13 @@ import torch
 import re
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from peft import PeftModel
+from router_holiday import holiday_router_2025  # ⬅️ 단체휴무 라우터 불러오기
+from card import lawcard_router
+import asyncio
 
 # 🔧 모델 로딩 (4bit + offload + eval + 속도 최적화)
 BASE = "beomi/KoAlpaca-Polyglot-5.8B"
-ADAPT = "./lora_bizntc_only300"
+ADAPT = "./lora"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -18,6 +21,8 @@ bnb_config = BitsAndBytesConfig(
 )
 
 print("🔧 모델 로딩 중...")
+
+
 base_model = AutoModelForCausalLM.from_pretrained(
     BASE,
     quantization_config=bnb_config,
@@ -29,6 +34,7 @@ model.eval()  # 추론 모드
 tokenizer = AutoTokenizer.from_pretrained(BASE)
 tokenizer.pad_token = tokenizer.eos_token
 print("✅ 모델 로딩 완료")
+print("✅ 적용된 LoRA 모듈:", model.modules_to_save)
 
 # FastAPI 앱 구성
 app = FastAPI()
@@ -50,6 +56,24 @@ class PromptInput(BaseModel):
 
 @app.post("/generate")
 async def generate_text(data: PromptInput):
+    prompt = data.prompt.strip()  # ⬅️ 먼저 선언
+    print("📝 사용자 입력:", prompt)  # 👈 사용자 입력 로그
+
+     # ✅ Step 1: 단체휴무 룰 우선 처리
+     
+    routed = holiday_router_2025(prompt)
+    if routed is not None:
+        print("✅ 단체휴무 룰로 응답됨")
+        await asyncio.sleep(2)
+        return {"response": routed}
+
+    routed = lawcard_router(prompt)
+    if routed is not None:
+        print("✅ 법인카드 룰로 응답됨")
+        await asyncio.sleep(2)
+        return {"response": routed}
+
+
     formatted = f"### Instruction:\n{data.prompt.strip()}\n\n### Response:\n"
     inputs = tokenizer(formatted, return_tensors="pt")
     inputs = {k: v.to(model.device) for k, v in inputs.items() if k != "token_type_ids"}

@@ -1,300 +1,460 @@
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n점심 제공돼?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n재택 가능해?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n그룹웨어도 개발해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n무슨 언어 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이 회사는 어떤 일을 해?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\nERP 구축도 가능해?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n온보딩 있어?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nCI/CD 도구는 뭐야?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n모바일 앱은 뭐로 만들어?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크는 어떤 기업인가요?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n출퇴근 자율이야?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n면접 몇 차야?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\nSAP도 하냐?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n클라우드 이전도 하니?\n\n### Response:", "input": "", "output": "네, ERP 구축과 클라우드 마이그레이션, 그룹웨어 시스템 개발 등 다양한 IT 서비스를 제공합니다."}
-{"instruction": "### Instruction:\n백엔드는 뭐 써?\n\n### Response:", "input": "", "output": "Spring, Vue.js, Flutter, GitLab, Jenkins 등 다양한 기술을 활용하고 있습니다."}
-{"instruction": "### Instruction:\n이력서 어디로 보내?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n무슨 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
-{"instruction": "### Instruction:\n신입도 뽑아?\n\n### Response:", "input": "", "output": "수시 채용 중이며, 이력서는 recruit@bizntc.com 으로 접수받고 있습니다."}
-{"instruction": "### Instruction:\n비즈앤테크컨설팅은 어떤 회사야?\n\n### Response:", "input": "", "output": "비즈앤테크컨설팅은 SAP 구축, 그룹웨어 개발, 클라우드 이전 등을 수행하는 IT 전문 기업입니다."}
-{"instruction": "### Instruction:\n복지 괜찮아?\n\n### Response:", "input": "", "output": "자율 출퇴근과 재택근무, 점심 식대 제공 등 유연한 근무 문화를 운영하고 있습니다."}
+{"instruction": "2025년 5월 2일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일은 출근 안 해도 돼?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 3일 단체휴무일인지 알려줘", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 21일은 단체휴무인가요?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일 단체휴무일인지 알려줘", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 25일 날짜는 단체로 쉬나요?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 3일은 단체휴무인가요?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 3일은 전사휴무야?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 21일은 전사휴무야?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 10일이 쉬는 날이야?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일은 전사휴무야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 5일 회사 쉬는 날 맞아?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 11월 21일이 쉬는 날이야?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일이 쉬는 날이야?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 30일 회사 쉬는 날 맞아?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 10일 날짜는 단체로 쉬나요?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 10일 회사 쉬는 날 맞아?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 9월 19일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일이 쉬는 날이야?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 31일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 10일은 단체휴무인가요?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 11월 11일은 단체휴무인가요?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일은 출근 안 해도 돼?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 1일이 쉬는 날이야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 27일 단체휴무일인지 알려줘", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 7월 1일 날짜는 단체로 쉬나요?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 3월 3일은 전사휴무야?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 29일은 전사휴무야?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 1일 날짜는 단체로 쉬나요?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 7월 18일은 전사휴무야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 3일은 단체휴무인가요?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 3일이 쉬는 날이야?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 1일은 회사 안 나가도 되는 날이야?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 5월 5일은 전사휴무야?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 1월 31일은 전사휴무야?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 19일은 출근 안 해도 돼?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일은 출근 안 해도 돼?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 19일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 11일 회사 쉬는 날 맞아?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 18일이 쉬는 날이야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 27일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 1일 단체휴무일인지 알려줘", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 19일은 출근 안 해도 돼?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일은 단체휴무인가요?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 30일 단체휴무일인지 알려줘", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일은 단체휴무인가요?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 10월 10일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 31일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 31일은 단체휴무인가요?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 18일이 쉬는 날이야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 10일은 전사휴무야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 3일이 쉬는 날이야?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 4월 18일은 전사휴무야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 11일 날짜는 단체로 쉬나요?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 5월 5일 단체휴무일인지 알려줘", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 9월 19일이 쉬는 날이야?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 2일은 단체휴무인가요?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일은 단체휴무인가요?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 11일은 단체휴무인가요?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 3월 3일은 단체휴무인가요?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 4월 18일 회사 쉬는 날 맞아?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 19일은 전사휴무야?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 31일이 쉬는 날이야?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 30일은 전사휴무야?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 10일은 회사 안 나가도 되는 날이야?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 12월 25일 단체휴무일인지 알려줘", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 3일 회사 쉬는 날 맞아?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 1월 27일은 출근 안 해도 돼?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 2일이 쉬는 날이야?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일은 출근 안 해도 돼?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 29일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 31일이 쉬는 날이야?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 7월 18일이 쉬는 날이야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 18일은 전사휴무야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 7월 1일은 전사휴무야?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 5월 2일은 단체휴무인가요?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 11일은 단체휴무인가요?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 21일은 출근 안 해도 돼?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 18일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 1일은 출근 안 해도 돼?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 7월 18일은 전사휴무야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 25일은 단체휴무인가요?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 11월 11일은 전사휴무야?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 12월 25일 단체휴무일인지 알려줘", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 29일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 18일 단체휴무일인지 알려줘", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 1일은 회사 안 나가도 되는 날이야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 10일은 전사휴무야?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 21일이 쉬는 날이야?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 1일이 쉬는 날이야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 1일은 전사휴무야?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 5월 5일 회사 쉬는 날 맞아?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 1일은 단체휴무인가요?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 7월 18일은 출근 안 해도 돼?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 21일은 단체휴무인가요?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일은 전사휴무야?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 5월 2일은 출근 안 해도 돼?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 1일 단체휴무일인지 알려줘", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 4월 18일 회사 쉬는 날 맞아?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 11월 21일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일은 단체휴무인가요?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 3일 날짜는 단체로 쉬나요?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일은 단체휴무인가요?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 21일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 1일 날짜는 단체로 쉬나요?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 21일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 1일이 쉬는 날이야?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 5월 2일이 쉬는 날이야?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 4월 18일이 쉬는 날이야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 5일 회사 쉬는 날 맞아?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 1일은 회사 안 나가도 되는 날이야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 3월 21일은 단체휴무인가요?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 25일은 회사 안 나가도 되는 날이야?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 29일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 5일이 쉬는 날이야?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 1일은 출근 안 해도 돼?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 9월 19일은 출근 안 해도 돼?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 21일은 단체휴무인가요?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 2일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일이 쉬는 날이야?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 31일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 1일은 전사휴무야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 9월 19일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일은 출근 안 해도 돼?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 27일이 쉬는 날이야?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 7월 18일은 전사휴무야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 10월 10일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 10월 10일은 전사휴무야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 21일 회사 쉬는 날 맞아?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 27일은 전사휴무야?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 27일은 전사휴무야?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일이 쉬는 날이야?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 31일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일이 쉬는 날이야?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일은 단체휴무인가요?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 11월 11일은 전사휴무야?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 12월 25일은 전사휴무야?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 2월 21일 단체휴무일인지 알려줘", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 31일은 전사휴무야?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일은 출근 안 해도 돼?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 12월 30일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 31일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 11월 21일은 전사휴무야?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 31일은 단체휴무인가요?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 2일은 단체휴무인가요?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 18일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 11월 11일은 출근 안 해도 돼?", "input": "", "output": "11월 11일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 9월 19일은 단체휴무인가요?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 10일 회사 쉬는 날 맞아?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 5월 2일은 단체휴무인가요?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 21일 회사 쉬는 날 맞아?", "input": "", "output": "네, 3월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 19일은 전사휴무야?", "input": "", "output": "네, 9월 19일은 단체휴무일입니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 31일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 30일은 회사 안 나가도 되는 날이야?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 5일 회사 쉬는 날 맞아?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 1일은 출근 안 해도 돼?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 3월 3일이 쉬는 날이야?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "비즈앤테크의 단체 휴무 전체 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 31일은 출근 안 해도 돼?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 3월 3일이 쉬는 날이야?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 1일은 전사휴무야?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 27일은 출근 안 해도 돼?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 2월 10일은 단체휴무인가요?", "input": "", "output": "2월 10일은 단체휴무일이 아닙니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 4월 18일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 7월 18일은 출근 안 해도 돼?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 1일은 출근 안 해도 돼?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 7월 1일은 회사 안 나가도 되는 날이야?", "input": "", "output": "7월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 4월 30일은 회사 안 나가도 되는 날이야?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 1월 31일 회사 쉬는 날 맞아?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 30일 날짜는 단체로 쉬나요?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 2월 21일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 2월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 5월 2일이 쉬는 날이야?", "input": "", "output": "네, 5월 2일은 단체휴무일입니다."}
+{"instruction": "2025년 1월 1일 회사 쉬는 날 맞아?", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 4월 30일 회사 쉬는 날 맞아?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일이 쉬는 날이야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 4월 30일은 단체휴무인가요?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 10월 10일은 회사 안 나가도 되는 날이야?", "input": "", "output": "네, 10월 10일은 단체휴무일입니다."}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 11월 21일은 출근 안 해도 돼?", "input": "", "output": "네, 11월 21일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 25일 날짜는 단체로 쉬나요?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 3월 3일 날짜는 단체로 쉬나요?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 1월 31일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 1월 31일은 단체휴무일입니다."}
+{"instruction": "2025년 10월 3일은 단체휴무인가요?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 12월 30일 회사 쉬는 날 맞아?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "2025년 9월 1일은 회사 안 나가도 되는 날이야?", "input": "", "output": "9월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 4월 18일이 쉬는 날이야?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 18일 날짜는 단체로 쉬나요?", "input": "", "output": "네, 4월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 4월 30일은 전사휴무야?", "input": "", "output": "4월 30일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 1월 27일은 출근 안 해도 돼?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일 단체휴무일인지 알려줘", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 29일은 단체휴무인가요?", "input": "", "output": "네, 12월 29일은 단체휴무일입니다."}
+{"instruction": "2025년 12월 30일은 출근 안 해도 돼?", "input": "", "output": "네, 12월 30일은 단체휴무일입니다."}
+{"instruction": "단체휴무일 전체 날짜 좀 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "올해 전사 휴무일은 어떻게 돼?", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 1일 단체휴무일인지 알려줘", "input": "", "output": "1월 1일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 5월 5일은 단체휴무인가요?", "input": "", "output": "5월 5일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 3월 3일은 단체휴무인가요?", "input": "", "output": "3월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 12월 25일 회사 쉬는 날 맞아?", "input": "", "output": "12월 25일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 전체 단체휴무 일정 정리해줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 27일 회사 쉬는 날 맞아?", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "2025년 10월 3일 날짜는 단체로 쉬나요?", "input": "", "output": "10월 3일은 단체휴무일이 아닙니다."}
+{"instruction": "2025년 7월 18일은 출근 안 해도 돼?", "input": "", "output": "네, 7월 18일은 단체휴무일입니다."}
+{"instruction": "2025년 단체휴무일 알려줘", "input": "", "output": "2025년 우리 회사 단체휴무일은 다음과 같습니다:\n- 1월 27일, 1월 31일\n- 2월 21일\n- 3월 21일\n- 4월 18일\n- 5월 2일\n- 7월 18일\n- 9월 19일\n- 10월 10일\n- 11월 21일\n- 12월 29일부터 31일까지"}
+{"instruction": "2025년 1월 27일 단체휴무일인지 알려줘", "input": "", "output": "네, 1월 27일은 단체휴무일입니다."}
+{"instruction": "거래처랑 점심 먹을 때 법인카드 써도 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "영업 미팅 때 식사 법카 사용 가능해?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "외부 손님 접대비는 법카로 결제할 수 있나요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "거래처 접대 시 저녁 법인카드 써도 되나요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "영업부 거래처 식사 법인카드 OK?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "동호회 모임에서 점심 사먹을 때 법인카드 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "친구랑 밥 먹을 때 법인카드 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "가족 회식 때 법인카드 써도 돼요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "사적인 저녁식사에 법인카드 사용 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "개인 식사에 법카 써도 되나?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "부서 회식할 때 법인카드 사용 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "회식비는 법카로 결제해도 괜찮아?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "팀 회식할 때 카드 써도 되나요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "회사 공식 회식에 법인카드 써도 되죠?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "부서장 주관 회식에 법카 사용 가능?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "부서 커피머신 사는데 법인카드 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "간식 구매하려는데 법카 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "우리 팀 커피캡슐 사려는데 카드 써도 될까?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "음료랑 과자 법카로 사도 되나요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "커피포트 구입에 법인카드 써도 됩니까?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "출장 가면서 주유비 법인카드 써도 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "출장 택시비는 법카 처리 가능해?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "업무 출장용 통행료도 법인카드 사용되나요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "출장 중 생긴 교통비는 법카로 해도 되죠?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "업무용 고속도로 톨비도 법카로 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "출근 택시비도 법인카드 되나요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "퇴근할 때 택시비 카드 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "평일 밤 퇴근 후 택시 법인카드 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "개인 출퇴근 교통비도 법인카드로 처리되나요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "퇴근 주유비 법카 가능해요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "야근하고 22시 넘으면 택시비 법인카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "늦게 퇴근해서 택시 탔는데 법카 써도 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "야근 후 택시비 법인카드 가능?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "야간근무 후 귀가 택시는 법카 가능하죠?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "22시 넘은 퇴근 시 법카로 택시비 결제 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "주말에 점심 먹고 카드 써도 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "휴일에 개인 식사 법카 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "공휴일 외출 후 식비 법인카드 돼요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "일요일 근처 카페 법인카드 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "휴일에 쓰면 안 되는 건가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "예외적으로 쓰려면 어떻게 해?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "사전 승인 받으면 법카 써도 돼?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "부적절 항목도 승인받으면 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "특별한 경우에는 카드 사용 가능해?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "사전에 신청하면 동호회 식사도 법카 처리되나요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "법인카드 사용 규정 전체 알려줘", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "법인카드 뭐에 쓸 수 있어?", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "사내 법인카드 사용 가능한 항목이 뭔가요?", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "법카는 언제 써도 되는 거야?", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "회사 카드로 가능한 항목 요약해줘", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "궁금한데 야근 후 택시비 법인카드 가능 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 음료랑 과자 법카로 사도 되나요 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 퇴근 주유비 법카 가능해요 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "특별한 경우에는 카드 사용 가능해 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 법인카드 사용 규정 전체 알려줘", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "업무 출장용 통행료도 법인카드 사용되나요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 업무용 고속도로 톨비도 법카로 돼 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 궁금한데 퇴근 주유비 법카 가능해요 카드 돼 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 예외적으로 쓰려면 어떻게 해 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 혹시 예외적으로 쓰려면 어떻게 해 가능한가요 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "사적인 저녁식사에 법인카드 사용 가능한가요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "출장 가면서 주유비 법인카드 써도 돼 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "사전에 신청하면 동호회 식사도 법카 처리되나요 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 사전에 신청하면 동호회 식사도 법카 처리되나요 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 궁금한데 야근 후 택시비 법인카드 가능 가능한가요", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 동호회 모임에서 점심 사먹을 때 법인카드 써도 돼", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 업무 출장용 통행료도 법인카드 사용되나요 가능한가요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 혹시 업무 출장용 통행료도 법인카드 사용되나요 가능한가요 가능한가요 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 개인 출퇴근 교통비도 법인카드로 처리되나요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 주말에 점심 먹고 카드 써도 돼 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 그럼 업무용 고속도로 톨비도 법카로 돼 가능한가요", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "특별한 경우에는 카드 사용 가능해 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 출장 가면서 주유비 법인카드 써도 돼 가능한가요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "특별한 경우에는 카드 사용 가능해 가능한가요 카드 돼?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 커피포트 구입에 법인카드 써도 됩니까 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 업무 출장용 통행료도 법인카드 사용되나요 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 궁금한데 야근 후 택시비 법인카드 가능 가능한가요 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 궁금한데 음료랑 과자 법카로 사도 되나요 카드 돼 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 회식비는 법카로 결제해도 괜찮아 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 그럼 업무용 고속도로 톨비도 법카로 돼 가능한가요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "거래처랑 점심 먹을 때 법인카드 써도 돼 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 특별한 경우에는 카드 사용 가능해 써도 됨", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "거래처랑 점심 먹을 때 법인카드 써도 돼 써도 됨 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 궁금한데 출장 가면서 주유비 법인카드 써도 돼 가능한가요 가능한가요 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 사전에 신청하면 동호회 식사도 법카 처리되나요 써도 됨 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 회사 공식 회식에 법인카드 써도 되죠", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 거래처랑 점심 먹을 때 법인카드 써도 돼 써도 됨 써도 됨 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 궁금한데 음료랑 과자 법카로 사도 되나요 카드 돼 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 그럼 혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼 카드 돼 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 부서장 주관 회식에 법카 사용 가능 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 출장 택시비는 법카 처리 가능해 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 거래처랑 점심 먹을 때 법인카드 써도 돼 써도 됨 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 가능한가요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 혹시 출장 택시비는 법카 처리 가능해 써도 됨", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 그럼 업무용 고속도로 톨비도 법카로 돼 가능한가요 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼 카드 돼", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 공휴일 외출 후 식비 법인카드 돼요 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 혹시 궁금한데 출장 가면서 주유비 법인카드 써도 돼 가능한가요 가능한가요 카드 돼 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 그럼 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 가능한가요 가능한가요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 부적절 항목도 승인받으면 가능한가요 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "혹시 특별한 경우에는 카드 사용 가능해 가능한가요", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 궁금한데 혹시 궁금한데 출장 가면서 주유비 법인카드 써도 돼 가능한가요 가능한가요 카드 돼 가능한가요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 외부 손님 접대비는 법카로 결제할 수 있나요 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 휴일에 개인 식사 법카 돼 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 사전에 신청하면 동호회 식사도 법카 처리되나요 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 특별한 경우에는 카드 사용 가능해 써도 됨 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 궁금한데 사전에 신청하면 동호회 식사도 법카 처리되나요 가능한가요 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "법카는 언제 써도 되는 거야 가능한가요?", "input": "", "output": "법인카드는 업무 관련 식대, 출장 교통비, 야근 택시비 등에 사용 가능합니다. 개인적인 지출, 퇴근 택시, 주말 식사, 커피머신 등은 사용이 제한되며, 예외적 사용은 사전 승인이 필요합니다."}
+{"instruction": "혹시 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "그럼 업무 출장용 통행료도 법인카드 사용되나요 가능한가요", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 출장 중 생긴 교통비는 법카로 해도 되죠 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 공휴일 외출 후 식비 법인카드 돼요 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "커피포트 구입에 법인카드 써도 됩니까 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "영업부 거래처 식사 법인카드 OK", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 그럼 개인 출퇴근 교통비도 법인카드로 처리되나요 가능한가요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 출장 택시비는 법카 처리 가능해 써도 됨", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "특별한 경우에는 카드 사용 가능해 가능한가요?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "혹시 휴일에 쓰면 안 되는 건가요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 거래처랑 점심 먹을 때 법인카드 써도 돼 써도 됨 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 부서장 주관 회식에 법카 사용 가능 카드 돼?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "휴일에 쓰면 안 되는 건가요 써도 됨?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "22시 넘은 퇴근 시 법카로 택시비 결제 가능한가요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 부서 회식할 때 법인카드 사용 가능한가요 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 우리 팀 커피캡슐 사려는데 카드 써도 될까 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 혹시 예외적으로 쓰려면 어떻게 해 가능한가요", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "그럼 사전에 신청하면 동호회 식사도 법카 처리되나요 써도 됨 써도 됨 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "궁금한데 궁금한데 혹시 예외적으로 쓰려면 어떻게 해 가능한가요 가능한가요 써도 됨?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "혹시 영업부 거래처 식사 법인카드 OK 써도 됨?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "궁금한데 혹시 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 카드 돼?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "가족 회식 때 법인카드 써도 돼요 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "출장 중 생긴 교통비는 법카로 해도 되죠", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "혹시 그럼 특별한 경우에는 카드 사용 가능해 써도 됨 써도 됨 카드 돼?", "input": "", "output": "예외적으로 사용하려면 반드시 사전 승인을 받아야 하며, 일반적으로는 사용이 제한됩니다."}
+{"instruction": "팀 회식할 때 카드 써도 되나요 가능한가요?", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 개인 식사에 법카 써도 되나", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "궁금한데 22시 넘은 퇴근 시 법카로 택시비 결제 가능한가요 가능한가요", "input": "", "output": "네, 해당 항목은 법인카드 사용이 가능합니다."}
+{"instruction": "그럼 궁금한데 혹시 혹시 커피포트 구입에 법인카드 써도 됩니까 카드 돼 카드 돼 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "혹시 그럼 궁금한데 퇴근 주유비 법카 가능해요 카드 돼 써도 됨 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}
+{"instruction": "그럼 궁금한데 음료랑 과자 법카로 사도 되나요 카드 돼 가능한가요?", "input": "", "output": "아니요, 해당 항목은 법인카드 사용이 금지되어 있습니다."}

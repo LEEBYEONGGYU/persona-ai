@@ -1,60 +1,73 @@
-import torch
-import json
-import re
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
-from tqdm import tqdm
+import torch, json
+from router_holiday import holiday_router_2025
 
-# 경로 설정
-BASE_MODEL = "beomi/KoAlpaca-Polyglot-5.8B"
-LORA_ADAPTER = "./lora_bizntc_only300"
-PROMPT_FILE = "./eval_prompts.jsonl"
-MAX_NEW_TOKENS = 128
+# 모델 로딩
+base = AutoModelForCausalLM.from_pretrained(
+    "beomi/KoAlpaca-Polyglot-5.8B",
+    device_map="auto",
+    torch_dtype=torch.float16
+)
+model = PeftModel.from_pretrained(base, "./lora")
+model.eval()
 
-# 모델 로드
-base = AutoModelForCausalLM.from_pretrained(BASE_MODEL, device_map="auto", torch_dtype=torch.float16)
-model = PeftModel.from_pretrained(base, LORA_ADAPTER)
-tok = AutoTokenizer.from_pretrained(BASE_MODEL)
-tok.pad_token = tok.eos_token
+tokenizer = AutoTokenizer.from_pretrained("beomi/KoAlpaca-Polyglot-5.8B")
+tokenizer.pad_token = tokenizer.eos_token
 
-# 후처리 함수 (선택)
-def clean_response(resp: str) -> str:
-    resp = re.sub(r"</?[^>]+>", "", resp)
-    resp = re.sub(r"(Company|Location|Date|To):.*", "", resp)
-    return resp.strip()
+# 추론 함수
+def generate(prompt):
+    # 1) 먼저 룰로 답을 시도
+    routed = holiday_router_2025(prompt if not user_input else f"{prompt} {user_input}")
+    if routed is not None:
+        return routed
 
-# 응답 생성 함수
-def generate_response(prompt: str) -> str:
-    full_prompt = f"### Instruction:\n{prompt}\n\n### Response:\n"
-    inputs = tok(full_prompt, return_tensors="pt")
+    # 2) 안 되면 LLM
+    full = f"### Instruction:\n{prompt}\n\n### Response:\n" if not user_input \
+        else f"### Instruction:\n{prompt}\n\n### Input:\n{user_input}\n\n### Response:\n"
+    inputs = tokenizer(full, return_tensors="pt")
     inputs = {k: v.to(model.device) for k, v in inputs.items() if k != "token_type_ids"}
-
     with torch.inference_mode():
-        out = model.generate(
-            **inputs,
-            max_new_tokens=MAX_NEW_TOKENS,
-            do_sample=False,
-            temperature=0.0,
-            eos_token_id=tok.eos_token_id,
-            pad_token_id=tok.pad_token_id
-        )
+        out = model.generate(**inputs, max_new_tokens=100, do_sample=False)
+    decoded = tokenizer.decode(out[0], skip_special_tokens=True)
+    decoded = decoded.replace(full, "").strip().split("###")[0].strip()
+    return decoded
 
-    decoded = tok.decode(out[0], skip_special_tokens=False)
+# 평가 루프
+total = 0
+correct = 0
 
-    if full_prompt in decoded:
-        raw_resp = decoded.split(full_prompt)[-1].strip()
-    else:
-        raw_resp = decoded.strip()
 
-    return clean_response(raw_resp)
+with open("eval_prompts.jsonl", encoding="utf-8") as f:
+    for line in f:
+        item = json.loads(line)
+        prompt = item["instruction"]
+        user_input = item.get("input")
+        expect = item.get("expected")
+        expect_contains = item.get("expected_contains")
 
-# 평가 시작
-with open(PROMPT_FILE, "r", encoding="utf-8") as f:
-    prompts = [json.loads(line.strip()) for line in f]
+        # prompt format 맞게 generate 호출
+        resp = generate(prompt, user_input) if user_input else generate(prompt)
+        print(f"🧾 {prompt}\n➡️ {resp}")
 
-print("📊 LoRA 응답 평가 시작\n")
+        total += 1
+        matched = False
+        if expect and resp.strip() == expect.strip():
+            correct += 1
+            matched = True
+        elif expect_contains and expect_contains in resp:
+            correct += 1
+            matched = True
 
-for item in tqdm(prompts):
-    instr = item["instruction"]
-    resp = generate_response(instr)
-    print(f"🧾 질문: {instr}\n📢 답변: {resp}\n{'-'*60}")
+        if not matched:
+            with open("eval_failures.jsonl", "a", encoding="utf-8") as f_log:
+                json.dump({
+                    "prompt": prompt,
+                    "input": user_input,
+                    "expected": expect,
+                    "expected_contains": expect_contains,
+                    "response": resp
+                }, f_log, ensure_ascii=False)
+                f_log.write("\n")
+
+print(f"\n✅ 정확도: {correct}/{total} = {correct/total:.2%}")

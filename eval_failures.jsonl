@@ -1,0 +1,36 @@
+{"prompt": "2025년 12월 30일은 전사 단체휴무일인가요?", "input": null, "expected": null, "expected_contains": "12월 30일", "response": "네, 그렇습니다. 단체휴무일은 매년 마지막 날에 시행됩니다."}
+{"prompt": "2025년 1월 1일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 1월 1일은 단체휴무일입니다."}
+{"prompt": "2025년 2월 10일 단체휴무인지 알려줘", "input": null, "expected": null, "expected_contains": "아니", "response": "2월 10일은 단체휴무일입니다."}
+{"prompt": "2025년 3월 3일은 쉬는 날인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 3월 3일은 휴무일입니다."}
+{"prompt": "2025년 4월 30일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 4월 30일은 단체휴무일입니다."}
+{"prompt": "2025년 5월 5일 단체휴무인지 알려줘", "input": null, "expected": null, "expected_contains": "아니", "response": "휴무일이 아닙니다.\n \n\n오월 칠일(May 7)은 단체 휴무일이 아닙니다."}
+{"prompt": "2025년 7월 1일은 전사 단체휴무일인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 그렇습니다. 매년 7월 1일은 캐나다 전체의 휴무일이 아닙니다. 하지만, 7월 1일은 캐나다의 특정 지역에서는 휴무일이 될 수 있습니다."}
+{"prompt": "2025년 9월 1일은 쉬는 날인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 9월 1일은 쉬는 날입니다."}
+{"prompt": "2025년 10월 3일 단체휴무인지 알려줘", "input": null, "expected": null, "expected_contains": "아니", "response": "10월 3일은 단체휴무일입니다."}
+{"prompt": "2025년 11월 11일에 출근 안 해도 되나요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 오늘은 11월 11일입니다. 그러나 2025년 11월 11일에는 출근하지 않아도 됩니다."}
+{"prompt": "2025년 12월 25일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 25일은 단체휴무일입니다."}
+{"prompt": "단체휴무일 전체 알려줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "네 알겠습니다.\n(대답하는 자세한 내용은 \"왜 쉬는날이 있는걸까?\"를 참조하세요)"}
+{"prompt": "2025년 우리 회사 단체휴무일은?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 우리 회사 단체휴무일은 '매월 첫째 주 월요일'입니다.\n\n위와 같은 답변을 한 대상이 누구인지는 알 수 없지만, '휴무일'은 특정일(예: 크리스마스)을 말하는 것이 아니라, 회사나 기관 등에서 특정 목적을 위해 쉬는 날을 말합니다. 따라서, 2025년의 단체휴무일은 '매월 첫째 주 월요일'이 됩니다."}
+{"prompt": "올해 전사 단체휴무일이 어떻게 돼?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "월요일은 단체휴무일이 아닙니다."}
+{"prompt": "단체로 쉬는 날 목록 보여줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "쉬는 날 목록이요?"}
+{"prompt": "비즈앤테크 단체휴무일 좀 알려줄래?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "네, 알겠습니다."}
+{"prompt": "2025년 12월 25일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네 맞습니다. 12월 25일은 단체휴무일입니다."}
+{"prompt": "단체휴무일 전체 알려줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "2025년 우리 회사 단체휴무일은?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 우리 회사 단체휴무일은 '매월 첫째 주 월요일'입니다.\n\n위와 같은 답변을 한 대상이 누구인지는 알 수 없지만, '휴무일'은 특정일(예: 크리스마스)을 말하는 것이 아니라, 회사나 기관 등에서 특정 목적을 위해 쉬는 날을 말합니다. 따라서, 2025년의 단체휴무일은 '매월 첫째 주 월요일'이 됩니다."}
+{"prompt": "올해 전사 단체휴무일이 어떻게 돼?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "월요일은 단체휴무일이 아닙니다."}
+{"prompt": "단체로 쉬는 날 목록 보여줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "비즈앤테크 단체휴무일 좀 알려줄래?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "네, 알겠습니다."}
+{"prompt": "2025년 12월 25일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네 맞습니다. 12월 25일은 단체휴무일입니다."}
+{"prompt": "단체휴무일 전체 알려줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "2025년 우리 회사 단체휴무일은?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 우리 회사 단체휴무일은 '매월 첫째 주 월요일'입니다."}
+{"prompt": "올해 전사 단체휴무일이 어떻게 돼?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "12월 18일, 19일, 25일, 26일\n각 기관의 특성에 따라 다를 수 있음"}
+{"prompt": "단체로 쉬는 날 목록 보여줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "비즈앤테크 단체휴무일 좀 알려줄래?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "네, 알려드리겠습니다.\n\n10월 1일부터 3일까지는 단체휴무일이라는 것이 있습니다. 이는 전체적인 휴무일은 아니고, 일부 직원들이 해당 기간 동안 휴가를 가는 것입니다. 단체휴무일은 회사의 일정 조율 상 불가피한 경우도 있으니, 이점 참고하시길 바랍니다. 이번 단체휴무일로 인해 고객님들의 양해와 불편을 최소화하기 위해, 많은 노력"}
+{"prompt": "2025년 3월 3일은 쉬는 날인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 3월 3일은 휴무일입니다."}
+{"prompt": "2025년 9월 1일은 쉬는 날인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네, 9월 1일은 쉬는 날입니다."}
+{"prompt": "2025년 12월 25일은 단체휴무인가요?", "input": null, "expected": null, "expected_contains": "아니", "response": "네 맞습니다. 12월 25일은 단체휴무일입니다."}
+{"prompt": "단체휴무일 전체 알려줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "2025년 우리 회사 단체휴무일은?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 우리 회사 단체휴무일은 '매월 첫째 주 월요일'입니다."}
+{"prompt": "올해 전사 단체휴무일이 어떻게 돼?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "12월 18일, 19일, 25일, 26일\n각 기관의 특성에 따라 다를 수 있음"}
+{"prompt": "단체로 쉬는 날 목록 보여줘", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "2025년 기준 단체휴무일은 다음과 같습니다: 1월 27~31일, 2월 21일, 3월 21일, 4월 18일, 5월 2일, 6월 6일·13일, 8월 15일, 9월 19일, 10월 6~10일, 11월 21일, 12월 25일·29~31일입니다."}
+{"prompt": "비즈앤테크 단체휴무일 좀 알려줄래?", "input": null, "expected": null, "expected_contains": "1월 27일", "response": "네, 알려드리겠습니다.\n\n10월 1일부터 3일까지는 단체휴무일이라는 것이 있습니다. 이는 전체적인 휴무일은 아니고, 일부 직원들이 해당 기간 동안 휴가를 가는 것입니다. 단체휴무일은 회사의 일정 조율 상 불가피한 경우도 있으니, 이점 참고하시길 바랍니다. 이번 단체휴무일로 인해 고객님들의 양해와 불편을 최소화하기 위해, 많은 노력"}
