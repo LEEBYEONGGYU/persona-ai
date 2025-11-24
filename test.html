@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <title>LoRA Chat</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: 40px auto; }
+        #log { border: 1px solid #ccc; padding: 15px; height: 400px; overflow-y: auto; }
+        .me { color: blue; margin-bottom: 10px; }
+        .bot { color: green; margin-bottom: 20px; }
+        #q { width: 100%; padding: 10px; font-size: 16px; }
+        button { padding: 10px 20px; font-size: 16px; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+<h2>LoRA 한국어 QA Chat</h2>
+
+<div id="log"></div>
+
+<input id="q" placeholder="질문을 입력하세요..." />
+<button onclick="send()">전송</button>
+
+<script>
+async function send() {
+    const q = document.getElementById("q").value.trim();
+    if (!q) return;
+
+    const log = document.getElementById("log");
+    log.innerHTML += `<div class='me'>👤 You: ${q}</div>`;
+    document.getElementById("q").value = "";
+
+    const res = await fetch("http://127.0.0.1:8000/ask", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({ text: q })
+    });
+    const data = await res.json();
+
+    log.innerHTML += `<div class='bot'>🤖 Bot: ${data.answer}</div>`;
+    log.scrollTop = log.scrollHeight;
+}
+</script>
+</body>
+</html>

@@ -32,7 +32,7 @@ RESULTS_DIR  = os.environ.get("RESULTS_DIR", "./results")
 
 MAX_LEN      = int(os.environ.get("MAX_LEN", "512"))
 EPOCHS       = float(os.environ.get("EPOCHS", "3"))
-BATCH_SIZE   = int(os.environ.get("BATCH_SIZE", "4"))
+BATCH_SIZE   = int(os.environ.get("BATCH_SIZE", "8"))
 GRAD_ACCUM   = int(os.environ.get("GRAD_ACCUM", "2"))
 LR           = float(os.environ.get("LR", "2e-5"))
 WARMUP_STEPS = int(os.environ.get("WARMUP_STEPS", "20"))
@@ -112,7 +112,7 @@ print("🔎 Sample lengths:", len(train_ds[0]["input_ids"]), len(train_ds[0]["la
 # 4-bit base model
 # =======================
 bnb = BitsAndBytesConfig(
-    load_in_4bit=True,
+    load_in_8bit=True,
     bnb_4bit_use_double_quant=True,
     bnb_4bit_quant_type="nf4",
     bnb_4bit_compute_dtype=torch.float16,
@@ -145,14 +145,16 @@ print("🔧 LoRA target modules:", targets)
 peft_config = LoraConfig(
     r=16,
     lora_alpha=32,
-    lora_dropout=0.1,
-    bias="none",
-    task_type="CAUSAL_LM",
     target_modules=["query_key_value"],
-    modules_to_save=[]  
+    lora_dropout=0.1,
+    task_type="CAUSAL_LM"
 )
 
+
+
+
 model = get_peft_model(base, peft_config)  
+
 model.print_trainable_parameters()
 
 collator = DataCollatorForSeq2Seq(
